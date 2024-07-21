@@ -23,7 +23,11 @@ header .header__navigation-items .portfolio a:first-child:hover {
   -ms-flex-align: center;
   align-items: center;
 }
-
+.sponsor__title h1{
+  width: auto !important;
+  height: auto !important;
+  flex-wrap: nowrap;
+}
 .sponsors__slider button {
   position: absolute;
   font-size: 40px;
