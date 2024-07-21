@@ -105,8 +105,8 @@ header .header__navigation-items .portfolio a:first-child:hover {
 
 .sponsors__slider-slide .sponsors__slider-item .sponsor .sponsor__title h1 {
   font-weight: 700;
-  width: 300px;
-  font-size: 22px;
+  width: 400px;
+  font-size: 32px;
   line-height: 50px;
   color: #ffffff;
 }
