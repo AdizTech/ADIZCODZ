@@ -96,7 +96,7 @@ header .header__navigation-items .portfolio a:first-child:hover {
 }
 
 .sponsors__slider-slide .sponsors__slider-item .sponsor .sponsor__title {
-  max-width: 345px;
+  max-width: 450px;
   background: #e2534b;
   border-radius: 5px;
   margin: 0 auto;
