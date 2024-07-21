@@ -11,9 +11,6 @@ header .header__navigation-items .portfolio a:first-child:hover {
   -o-transition: all ease .2s;
   transition: all ease .2s;
 }
-.sponsor__title h1{
- font-size: 30PX !important;
-}
 
 .sponsors__slider {
   display: -webkit-box;
@@ -103,7 +100,7 @@ header .header__navigation-items .portfolio a:first-child:hover {
 
 .sponsors__slider-slide .sponsors__slider-item .sponsor .sponsor__title h1 {
   font-weight: 700;
-  font-size: 50px;
+  font-size: 30px;
   line-height: 50px;
   color: #ffffff;
 }
